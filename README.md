@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/albyrifal_/"><img width="32px" alt="Instagram" title="Instagram" src="https://icons8.com/icon/32292/instagram"/></a>
+  <a href="https://www.instagram.com/albyrifal_/"><img width="32" src="" alt="instagram-new--v1"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -99,3 +99,4 @@
 
 </details>
 
+<a  href="https://icons8.com/icon/32292/instagram">Instagram</a> icon by <a href="https://icons8.com">Icons8</a>
