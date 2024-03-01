@@ -5,13 +5,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/albyrifal_/"><img width="32" src="" alt="instagram-new--v1"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://www.instagram.com/albyrifal_/"><img width="34px" src="https://raw.githubusercontent.com/Rothy-0x/Rothy-0x/main/icons8-instagram1.svg" alt="Instagram" title="Instagram"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
@@ -99,4 +93,3 @@
 
 </details>
 
-<a  href="https://icons8.com/icon/32292/instagram">Instagram</a> icon by <a href="https://icons8.com">Icons8</a>
