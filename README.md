@@ -22,7 +22,7 @@
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" />
   </p>
-
+<br>
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
@@ -32,7 +32,7 @@
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   </p>
-
+<br>
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
@@ -41,7 +41,7 @@
     <img align="left" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
     <img align="left" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
   </p>
-
+<br>
   <h3>💻 Software and Tools</h3>
 
   <p>
