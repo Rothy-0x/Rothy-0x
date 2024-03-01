@@ -1,9 +1,11 @@
 [![MasterHead](https://i.redd.it/wryvcm9orbbb1.gif)](https://rishavchanda.io)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&size=22&center=true&color=FF407D&random=false&width=1235&height=45&lines=WELCOME+TO+MY+PROFILE;Rothy-0x;STUDENT+OF+MULAWARMAN+UNIVERSITY)](https://git.io/typing-svg)
+<br>
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&size=25&center=true&color=FF407D&random=false&width=1235&height=50&lines=WELCOME+TO+MY+PROFILE;Rothy-0x;STUDENT+OF+MULAWARMAN+UNIVERSITY)](https://git.io/typing-svg)
 
 
 <p align="center">
-  <a href="https://www.instagram.com/albyrifal_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/jWnHAAy.png"/></a>
+  <a href="https://www.instagram.com/albyrifal_/"><img width="32px" alt="Instagram" title="Instagram" src="https://icons8.com/icon/32292/instagram"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -16,6 +18,7 @@
 </p>
 
 <br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rothy-0x&theme=onedark)](https://github.com/Rothy-0x/github-profile-trophy)
 
 <details> 
