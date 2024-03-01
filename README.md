@@ -1,8 +1,21 @@
 [![MasterHead](https://i.redd.it/wryvcm9orbbb1.gif)](https://rishavchanda.io)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&size=45&center=true&color=FF407D&random=false&width=1235&height=150&lines=WELCOME+TO+MY+PROFILE;Rothy-0x;STUDENT+OF+MULAWARMAN+UNIVERSITY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&size=22&center=true&color=FF407D&random=false&width=1235&height=45&lines=WELCOME+TO+MY+PROFILE;Rothy-0x;STUDENT+OF+MULAWARMAN+UNIVERSITY)](https://git.io/typing-svg)
 
 
+<p align="center">
+  <a href="https://www.instagram.com/albyrifal_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/KAlgiiA.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rothy-0x&theme=onedark)](https://github.com/Rothy-0x/github-profile-trophy)
 
 <details> 
