@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/albyrifal_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/KAlgiiA.png"/></a>
+  <a href="https://www.instagram.com/albyrifal_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/jWnHAAy.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
