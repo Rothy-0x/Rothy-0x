@@ -1,4 +1,4 @@
-0[![MasterHead](https://i.imgur.com/DWUdh2J.gif)
+[![MasterHead](https://i.imgur.com/DWUdh2J.gif)
 <h1 align="center">Hi 👋, I'm Albygael Rifal Nifansa</h1>
 <h3 align="center">Enthusiastic and passionate Android Developer student, with expertise in mobile application development on the Android platform. Possesses in-depth knowledge of Java and Kotlin programming languages, along with practical experience in designing, implementing, and testing responsive and innovative applications. Commitment to continuous development is evident through participation in practical projects and successful completion of programming challenges. The ability to work in a team, think creatively, and find effective solutions makes them a valuable contributor in the software development world. Ready to explore and dominate the dynamic realm of Android development.</h3>
 
